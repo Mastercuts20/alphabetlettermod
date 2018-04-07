@@ -1,0 +1,16 @@
+[
+{
+  "modid": "mftm",
+  "name": "Test Mod",
+  "description": "A test mod.",
+  "version": "1.0",
+  "mcversion": "[1.11]",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["mastercuts20"],
+  "credits": "Mastercuts20",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
