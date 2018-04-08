@@ -18,6 +18,7 @@ public class ModBlocks {
     public static Block letterm;
     public static Block lettera;
     public static Block letterk;
+    public static Block lettere;
 
     public static void init(){
         trademark = new Block(Material.CLAY).setUnlocalizedName("trademark").setCreativeTab(TestMod.letters);
